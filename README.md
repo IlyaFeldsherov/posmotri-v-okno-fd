@@ -1,1 +1,1 @@
-https://github.com/IlyaFeldsherov/ono-tebe-nado-fd
+https://github.com/IlyaFeldsherov/posmotri-v-okno-fd
