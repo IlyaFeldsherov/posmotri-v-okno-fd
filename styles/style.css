@@ -10,6 +10,7 @@ html {
 
 .page {
   display: flex;
+  align-items: center;
   justify-content: center;
   inline-size: 1200px;
   height: 100%;
@@ -86,8 +87,7 @@ ol {
 
 .result {
   align-self: flex-end;
-  margin-bottom: 221px;
-  }
+}
 
 .result__video-container {
   position: relative;
@@ -241,6 +241,10 @@ ol {
   min-width: 386px;
 }
 
+.content__details {
+  inline-size: 100%;
+}
+
 .title {
   font-family: "Oswald";
   font-size: 75px;
@@ -254,11 +258,7 @@ ol {
 .content__accent {
   opacity: 0.3;
 }
- 
-.content__details {
-  inline-size: 100%;
 
-}
 
 .content__list-container {
   height: 298px;
