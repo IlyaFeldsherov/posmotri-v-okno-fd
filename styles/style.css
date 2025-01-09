@@ -299,7 +299,7 @@ ol {
   font-weight: 400;
 }
 
-.content__card-link:hover{
+.content__card-link:hover {
   text-decoration: underline 1px #FFFFFF;
 }
 
@@ -331,7 +331,7 @@ display: block;
 
 .content__card-link:focus-visible {
   cursor:pointer;
-  outline: currentColor 1px solid;
+  outline: #FFFFFF 1px solid;
 }
 
 .content__card-link_current {
